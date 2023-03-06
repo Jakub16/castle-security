@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CastleSecurityApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(CastleSecurityApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(CastleSecurityApplication.class, args);
+    }
 
 }
